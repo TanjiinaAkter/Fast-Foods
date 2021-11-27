@@ -4,11 +4,7 @@
 
 **Description :** Fast food is the term for a kind of food that people eat from a restaurant, cafe or take-out where food is prepared and served quickly. It is mass-produced food. It is often pre-prepared and delivered to the shop ready for frying or boiling. There is a strong priority on "speed of service".
 
-Demo - [URL](Name)
-
-Front-end Repository - [URL](Name)
-
-Back-end repository - [URL](Name)
+Demo -  [https://fast-foods-af9dd.web.app/](https://fast-foods-af9dd.web.app)
 
 ## Project Detail:
 
